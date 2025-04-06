@@ -103,8 +103,9 @@ There was an unexpected error
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://jayapura696yoyotv.blogspot.com/2024/06/1.html" group-title="YOYO TV",Donasi Dong...
-https://drive.google.com/uc?export=download&id=19dpmNfr1FleNDPFMdYql2HrwXDt632cp
+#EXTINF:-1 tvg-logo="https://l.top4top.io/p_31985tia01.png" group-title="YOYO TV",DISCLAMER
+https://l.top4top.io/m_3372yzsto1.mp4
+
 
                                  ########## "CC | Live" ##########
 
