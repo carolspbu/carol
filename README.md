@@ -14,6 +14,68 @@ This application has no explicit mapping for /error, so you are seeing this as a
 https://l.top4top.io/m_3372yzsto1.mp4
 
 
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4OQM-OtNvSihRoWtcBNfY-yLqiaW0AbGmA&s" tvg-id="Indosiar HD - [Saluran 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="LIGA / BRI",Indosiar VIP
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=112
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="LIGA / BRI",Sportstars V+
+https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=113
+#EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="LIGA / BRI",Sportstars 2 V+
+https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+
+#EXTINF:0 group-title="LIGA / BRI" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sportstars 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+
+#EXTINF:0 group-title="LIGA / BRI" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+
+#EXTINF:-1 group-title="LIGA / BRI" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sportstars 1 HD
+https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",Sportstars 2 HD
+https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTINF:-1 tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="LIGA / BRI",Sportstar 4
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/955/49955-SNAPSHOT-l.png" group-title="LIGA / BRI",Soccer Channel-HD
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+
+
+
+
 
 
                  <=================== "EVENT" =============================>
@@ -22,15 +84,12 @@ https://l.top4top.io/m_3372yzsto1.mp4
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/30pj83g.png", 15:30 WIB - Selesai [Proliga
 http://opplex.tv:8080/live/mother/mother/350997.ts
 
-
-
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/3EUm5S1.png", 15:00 WIB Zhetysu VC vs Nakhonratchasima Qmnic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
-
 
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/3EUm5S1.png", 18:00 WIB VTV Binh Dien Long An vs Beijing BAIC Motor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -39,8 +98,6 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
 
-
-
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://static.flashscore.com/res/image/data/6ol67PRp-G075SKNB.png", 23:15 WIB Crystal Palace vs Aston Villa
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -48,8 +105,6 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-
 
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/3ckn0Ss.png", 18:30 WIB Chelsea vs Everton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -1547,6 +1602,263 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="PREMIUM✓SPORTS",ESPN 1
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://firetop1.site/live/158717872/875587369/639.ts
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="PREMIUM✓SPORTS",ESPN 2
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://firetop1.site/live/158717872/875587369/638.ts
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="PREMIUM✓SPORTS",ESPN 3
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://firetop1.site/live/158717872/875587369/640.ts
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="PREMIUM✓SPORTS",ESPN 4
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://firetop1.site/live/158717872/875587369/62.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="PREMIUM✓SPORTS",ESPN 5
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://firetop1.site/live/158717872/875587369/60.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="PREMIUM✓SPORTS",ESPN 6
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://firetop1.site/live/158717872/875587369/48.ts
+
+
+
+
+                     =======TRUEPREMIER======
+
+
+
+#EXTINF:-1 group-title="TRUE PREMIER" tvg-id="truepremierfootball1.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE PREMIER" tvg-id="truepremierfootball2.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",True Premier 2
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE PREMIER" tvg-id="truepremierfootball3.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png",True Premier 3
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE PREMIER" tvg-id="truepremierfootball4.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png",True Premier 4
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE PREMIER" tvg-id="truepremierfootball5.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png",True Premier 5
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE PREMIER" tvg-id="trueSports1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE PREMIER" tvg-id="trueSports2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sports 2
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE PREMIER" tvg-id="trueSports3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp",True Sports 3
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE PREMIER" tvg-id="trueSports4.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_original.png",True Sports 4
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE PREMIER" tvg-id="trueSports5.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",True Sports 5
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-0 tvg-id="TrueSport7.th" tvg-name="TrueSport7" tvg-logo="https://images.livebox.co/images/tv/png/sd-tsport7.png" group-title="TRUE PREMIER",True Sports 7
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
+
+
+	                                 =======CANAL+=====
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="🔴CANAL+",live 1
+#EXTVLCOPT:http-referrer=http://azers.online/
+#EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155540&extension=ts&play_token=RgTd5r3rbc
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="🔴CANAL+",live 2
+#EXTVLCOPT:http-referrer=http://azers.online/
+#EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155559&extension=ts&play_token=2Qb1nvRrnH
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="🔴CANAL+",live 3
+#EXTVLCOPT:http-referrer=http://azers.online/
+#EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155541&extension=ts&play_token=3xJJZCM7lV
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="🔴CANAL+",live 4
+#EXTVLCOPT:http-referrer=http://azers.online/
+#EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155543&extension=ts&play_token=01WkBjcBCQ
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="🔴CANAL+",live 5
+#EXTVLCOPT:http-referrer=http://azers.online/
+#EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155544&extension=ts&play_token=FlvsdWTfMW
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="🔴CANAL+",live 6
+#EXTVLCOPT:http-referrer=http://azers.online/
+#EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155545&extension=ts&play_token=mpklGsWhdR
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="🔴CANAL+",live 7
+#EXTVLCOPT:http-referrer=http://azers.online/
+#EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155546&extension=ts&play_token=4sPDOzi4No
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="🔴CANAL+",live 8
+#EXTVLCOPT:http-referrer=http://azers.online/
+#EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155547&extension=ts&play_token=27ObHeEO7v
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="🔴CANAL+",live 9
+#EXTVLCOPT:http-referrer=http://azers.online/
+#EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155548&extension=ts&play_token=7ODypfvwCp
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="🔴CANAL+",live 10
+#EXTVLCOPT:http-referrer=http://azers.online/
+#EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155549&extension=ts&play_token=jUwSRJNnGi
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="🔴CANAL+",Canal FOOT
+#EXTVLCOPT:http-referrer=http://azers.online/
+#EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=256121&extension=ts&play_token=pvUH4HTZC2
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="🔴CANAL+",Canal Premier League
+#EXTVLCOPT:http-referrer=http://azers.online/
+#EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=115874&extension=ts&play_token=50Vkn2h0fY
+
+
+
+
+                            ======="BEIN SPORTS"=====
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports English 1 FHD
+http://opplex.tv:8080/mohsin655/4969292/381323
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports English 2 FHD
+http://opplex.tv:8080/mohsin655/4969292/381325
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports English 2 HD
+http://opplex.tv:8080/mohsin655/4969292/381324
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports_News.png" group-title="BEIN SPORTS",AR: BeIN Sports News FHD
+http://opplex.tv:8080/mohsin655/4969292/381326
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports.png" group-title="BEIN SPORTS",AR: BeIN Sports HD
+http://opplex.tv:8080/mohsin655/4969292/381327
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.kooora.com/?i=katkotati%2F4k.gif" group-title="BEIN SPORTS",AR: BeIN 4K
+http://opplex.tv:8080/mohsin655/4969292/381328
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports1.png" group-title="BEIN SPORTS",AR: BeIN Sports 1 FHD
+http://opplex.tv:8080/mohsin655/4969292/381329
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports1.png" group-title="BEIN SPORTS",AR: BeIN Sports 1 HD
+http://opplex.tv:8080/mohsin655/4969292/381330
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports2.png" group-title="BEIN SPORTS",AR: BeIN Sports 2 FHD
+http://opplex.tv:8080/mohsin655/4969292/381331
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports2.png" group-title="BEIN SPORTS",AR: BeIN Sports 2 HD
+http://opplex.tv:8080/mohsin655/4969292/381332
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports3.png" group-title="BEIN SPORTS",AR: BeIN Sports 3 FHD
+http://opplex.tv:8080/mohsin655/4969292/381333
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports3.png" group-title="BEIN SPORTS",AR: BeIN Sports 3 HD
+http://opplex.tv:8080/mohsin655/4969292/381334
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports4.png" group-title="BEIN SPORTS",AR: BeIN Sports 4 FHD
+http://opplex.tv:8080/mohsin655/4969292/381335
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports4.png" group-title="BEIN SPORTS",AR: BeIN Sports 4 HD
+http://opplex.tv:8080/mohsin655/4969292/381336
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports5.png" group-title="BEIN SPORTS",AR: BeIN Sports 5 FHD
+http://opplex.tv:8080/mohsin655/4969292/381337
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports5.png" group-title="BEIN SPORTS",AR: BeIN Sports 5 HD
+http://opplex.tv:8080/mohsin655/4969292/381338
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports6.png" group-title="BEIN SPORTS",AR: BeIN Sports 6 FHD
+http://opplex.tv:8080/mohsin655/4969292/381339
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports6.png" group-title="BEIN SPORTS",AR: BeIN Sports 6 HD
+http://opplex.tv:8080/mohsin655/4969292/381340
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports7.png" group-title="BEIN SPORTS",AR: BeIN Sports 7 FHD
+http://opplex.tv:8080/mohsin655/4969292/381341
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports7.png" group-title="BEIN SPORTS",AR: BeIN Sports 7 HD
+http://opplex.tv:8080/mohsin655/4969292/381342
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.png" group-title="BEIN SPORTS",AR: BeIN Sports 8 FHD
+http://opplex.tv:8080/mohsin655/4969292/381343
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.png" group-title="BEIN SPORTS",AR: BeIN Sports 8 HD
+http://opplex.tv:8080/mohsin655/4969292/381344
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.png" group-title="BEIN SPORTS",AR: BeIN Sports 9 FHD
+http://opplex.tv:8080/mohsin655/4969292/381345
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.png" group-title="BEIN SPORTS",AR: BeIN Sports 9 HD
+http://opplex.tv:8080/mohsin655/4969292/381346
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-06.png" group-title="BEIN SPORTS",AR: BeIN Sports AFC 1 HD
+http://opplex.tv:8080/mohsin655/4969292/381348
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-07.png" group-title="BEIN SPORTS",AR: BeIN Sports AFC 2 HD
+http://opplex.tv:8080/mohsin655/4969292/381349
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png" group-title="BEIN SPORTS",AR: BeIN Sports AFC 3 HD
+http://opplex.tv:8080/mohsin655/4969292/381350
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png" group-title="BEIN SPORTS",AR: BeIN Sports AFC HD
+http://opplex.tv:8080/mohsin655/4969292/381347
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports French 1 FHD
+http://opplex.tv:8080/mohsin655/4969292/381351
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports French 2 FHD
+http://opplex.tv:8080/mohsin655/4969292/381352
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports French 3 FHD
+http://opplex.tv:8080/mohsin655/4969292/381353
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_NbA.png" group-title="BEIN SPORTS",AR: BeIN Sports NBA
+http://opplex.tv:8080/mohsin655/4969292/381357
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports Xtra 1 HD
+http://opplex.tv:8080/mohsin655/4969292/381354
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports Xtra 2 HD
+http://opplex.tv:8080/mohsin655/4969292/381355
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F2%2F35%2Fbein-sports-hd-1.png" group-title="BEIN SPORTS",AR: BeIN Sports Xtra 3 HD
+http://opplex.tv:8080/mohsin655/4969292/381356
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/819677684330598400/B-7iG0oq.jpg" group-title="BEIN SPORTS",TR: BeIN Sports HD 1 (Turkish)
+http://opplex.tv:8080/mohsin655/4969292/381360
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/819677684330598400/B-7iG0oq.jpg" group-title="BEIN SPORTS",TR: BeIN Sports HD 2 (Turkish)
+http://opplex.tv:8080/mohsin655/4969292/381361
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/819677684330598400/B-7iG0oq.jpg" group-title="BEIN SPORTS",TR: BeIN Sports HD 3 (Turkish)
+http://opplex.tv:8080/mohsin655/4969292/381362
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/819677684330598400/B-7iG0oq.jpg" group-title="BEIN SPORTS",TR: BeIN Sports HD 4 (Turkish)
+http://opplex.tv:8080/mohsin655/4969292/381363
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/images/d7fpHzS1ZUKA38F6k1H10kfs4e5ShS4E.jpg" group-title="BEIN SPORTS",US: Bein Sports HD (USA)
+http://opplex.tv:8080/mohsin655/4969292/381358
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fubo.tv/lp/ca/live/images/channels/logo-beIN-Sports-Spanish.png" group-title="BEIN SPORTS",US: BeIN Sports ñ HD
+http://opplex.tv:8080/mohsin655/4969292/38135
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6129fe72ded1a946884fed4f021411fa.png" group-title=" Bein Sports",US: beIN Sports 1
+http://opplex.tv:8080/mohsin655/4969292/347265
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/36c8a2f7e977b190633248afab44b0be.png" group-title=" Bein Sports",US: beIN Sports 2
+http://opplex.tv:8080/mohsin655/4969292/347266
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/968b2561d3ef02a84e6761d4d914db6a.png" group-title=" Bein Sports",US: beIN Sports 4
+http://opplex.tv:8080/mohsin655/4969292/347267
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/143beddb5ede0e1f1c962d27225f73e8.png" group-title=" Bein Sports",US: beIN Sports 5
+http://opplex.tv:8080/mohsin655/4969292/347268
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/508c7fe8551803cd75658da2876e94c9.png" group-title=" Bein Sports",US: beIN Sports 6
+http://opplex.tv:8080/mohsin655/4969292/347269
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/35bdc00f1836b7669f614ffa005537c1.png" group-title=" Bein Sports",US: beIN Sports 7
+http://opplex.tv:8080/mohsin655/4969292/347270
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0a80bcb2eeb5e23cb9f0404c4b16a745.jfif" group-title=" Bein Sports",US: beIN Sports 8
+http://opplex.tv:8080/mohsin655/4969292/347271
 
 
 
